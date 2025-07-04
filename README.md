@@ -1,4 +1,4 @@
-﻿# 🌟 Akanksha Solanki - Portfolio
+# 🌟 Akanksha Solanki - Portfolio
 
 > Professional portfolio showcasing my journey as an aspiring software engineer and full-stack developer.
 
