@@ -3,7 +3,7 @@
 > Professional portfolio showcasing my journey as an aspiring software engineer and full-stack developer.
 
 ## 🚀 Live Demo
-[View Portfolio](https://your-portfolio-url.vercel.app) <!-- Update with your actual URL -->
+[View Portfolio](https://portfolio-lake-two-84.vercel.app)
 
 ## 👩‍💻 About
 B.Tech Computer Science student from KIIT, Bhubaneswar. Passionate about coding, problem-solving, and building user-friendly applications.
