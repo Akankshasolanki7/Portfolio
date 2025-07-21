@@ -8,10 +8,10 @@ import { Award } from 'lucide-react';
 const Certifications = () => {
   const certifications = [
     {
-      title: "Virtual Internship – Python Full Stack Development",
+      title: "Training – Python Full Stack Development",
       issuer: "AICTE",
       date: "Oct 2024 – Dec 2024",
-      type: "Internship",
+      type: "Training",
       color: "bg-blue-100 dark:bg-blue-900"
     },
     {

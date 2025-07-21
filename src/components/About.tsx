@@ -38,7 +38,7 @@ const About = () => {
   };
 
   const handleDownloadResume = () => {
-    const resumeUrl = 'https://drive.google.com/file/d/1lpdVfc_hTXjQX2Fq5SZk20O3qiKG1fkh/view?usp=sharing';
+    const resumeUrl = 'https://drive.google.com/file/d/1WLnf1oMEe9xgdvQLdiGPQmMkWTyRMVqh/view?usp=sharing';
     window.open(resumeUrl, '_blank');
   };
 
@@ -114,7 +114,7 @@ const About = () => {
         {[
           { label: 'Projects', value: '10+' },
           { label: 'Technologies', value: '15+' },
-          { label: 'DSA Problems', value: '100+' }
+          { label: 'DSA Problems', value: '300+' }
         ].map((stat, index) => (
           <motion.div
             key={index}

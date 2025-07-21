@@ -15,7 +15,7 @@ const Achievements = () => {
     },
     {
       title: "Problem Solving",
-      description: "Solved 250+ DSA problems on LeetCode, HackerRank, and GeeksforGeeks",
+      description: "Solved 300+ DSA problems on LeetCode, HackerRank, and GeeksforGeeks",
       date: "Ongoing",
       icon: "💻",
       color: "from-green-400 to-blue-500"
