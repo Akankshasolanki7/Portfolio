@@ -8,7 +8,7 @@ import { Award } from 'lucide-react';
 const Certifications = () => {
   const certifications = [
     {
-      title: "Training – Python Full Stack Development",
+      title: "Python Full Stack Development",
       issuer: "AICTE",
       date: "Oct 2024 – Dec 2024",
       type: "Training",

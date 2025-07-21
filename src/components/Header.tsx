@@ -23,7 +23,7 @@ const Header = () => {
 
   const handleDownloadResume = () => {
     // Open Google Drive resume link in new tab
-    const resumeUrl = 'https://drive.google.com/file/d/1lpdVfc_hTXjQX2Fq5SZk20O3qiKG1fkh/view?usp=sharing';
+    const resumeUrl = 'https://drive.google.com/file/d/1WLnf1oMEe9xgdvQLdiGPQmMkWTyRMVqh/view?usp=sharing';
     window.open(resumeUrl, '_blank');
   };
 
